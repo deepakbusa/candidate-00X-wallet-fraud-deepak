@@ -53,9 +53,5 @@ Returns audit logs.
    ```
 
 ## Deployment
-- Deploy easily to Render, Railway, or Vercel (Node.js server).
-- Expose the live URL for assessment.
-
----
-
-**Repo name:** `candidate-00X-wallet-fraud-[yourname]` 
+- Deployed to Railway.
+- https://web-production-954a.up.railway.app/.
